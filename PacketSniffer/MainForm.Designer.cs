@@ -69,17 +69,15 @@
             this.panel_Top.Controls.Add(this.label1);
             this.panel_Top.Dock = System.Windows.Forms.DockStyle.Top;
             this.panel_Top.Location = new System.Drawing.Point(0, 0);
-            this.panel_Top.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.panel_Top.Name = "panel_Top";
-            this.panel_Top.Size = new System.Drawing.Size(1175, 59);
+            this.panel_Top.Size = new System.Drawing.Size(881, 47);
             this.panel_Top.TabIndex = 0;
             // 
             // btn_Open
             // 
-            this.btn_Open.Location = new System.Drawing.Point(931, 19);
-            this.btn_Open.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.btn_Open.Location = new System.Drawing.Point(698, 15);
             this.btn_Open.Name = "btn_Open";
-            this.btn_Open.Size = new System.Drawing.Size(100, 25);
+            this.btn_Open.Size = new System.Drawing.Size(75, 20);
             this.btn_Open.TabIndex = 7;
             this.btn_Open.Text = "打开";
             this.btn_Open.UseVisualStyleBackColor = true;
@@ -87,10 +85,9 @@
             // 
             // btn_Save
             // 
-            this.btn_Save.Location = new System.Drawing.Point(818, 19);
-            this.btn_Save.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.btn_Save.Location = new System.Drawing.Point(614, 15);
             this.btn_Save.Name = "btn_Save";
-            this.btn_Save.Size = new System.Drawing.Size(100, 25);
+            this.btn_Save.Size = new System.Drawing.Size(75, 20);
             this.btn_Save.TabIndex = 6;
             this.btn_Save.Text = "保存";
             this.btn_Save.UseVisualStyleBackColor = true;
@@ -98,10 +95,9 @@
             // 
             // btn_Info
             // 
-            this.btn_Info.Location = new System.Drawing.Point(707, 19);
-            this.btn_Info.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.btn_Info.Location = new System.Drawing.Point(530, 15);
             this.btn_Info.Name = "btn_Info";
-            this.btn_Info.Size = new System.Drawing.Size(100, 25);
+            this.btn_Info.Size = new System.Drawing.Size(75, 20);
             this.btn_Info.TabIndex = 5;
             this.btn_Info.Text = "详细信息";
             this.btn_Info.UseVisualStyleBackColor = true;
@@ -109,10 +105,9 @@
             // 
             // btn_Clear
             // 
-            this.btn_Clear.Location = new System.Drawing.Point(1048, 19);
-            this.btn_Clear.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.btn_Clear.Location = new System.Drawing.Point(786, 15);
             this.btn_Clear.Name = "btn_Clear";
-            this.btn_Clear.Size = new System.Drawing.Size(100, 25);
+            this.btn_Clear.Size = new System.Drawing.Size(75, 20);
             this.btn_Clear.TabIndex = 4;
             this.btn_Clear.Text = "清除显示";
             this.btn_Clear.UseVisualStyleBackColor = true;
@@ -120,10 +115,9 @@
             // 
             // btn_Stop
             // 
-            this.btn_Stop.Location = new System.Drawing.Point(587, 19);
-            this.btn_Stop.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.btn_Stop.Location = new System.Drawing.Point(440, 15);
             this.btn_Stop.Name = "btn_Stop";
-            this.btn_Stop.Size = new System.Drawing.Size(100, 25);
+            this.btn_Stop.Size = new System.Drawing.Size(75, 20);
             this.btn_Stop.TabIndex = 3;
             this.btn_Stop.Text = "暂停";
             this.btn_Stop.UseVisualStyleBackColor = true;
@@ -131,10 +125,9 @@
             // 
             // btn_Start
             // 
-            this.btn_Start.Location = new System.Drawing.Point(456, 19);
-            this.btn_Start.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.btn_Start.Location = new System.Drawing.Point(342, 15);
             this.btn_Start.Name = "btn_Start";
-            this.btn_Start.Size = new System.Drawing.Size(100, 25);
+            this.btn_Start.Size = new System.Drawing.Size(75, 20);
             this.btn_Start.TabIndex = 2;
             this.btn_Start.Text = "开始";
             this.btn_Start.UseVisualStyleBackColor = true;
@@ -143,19 +136,17 @@
             // comboBox1
             // 
             this.comboBox1.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList;
-            this.comboBox1.Location = new System.Drawing.Point(111, 19);
-            this.comboBox1.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.comboBox1.Location = new System.Drawing.Point(83, 15);
             this.comboBox1.Name = "comboBox1";
-            this.comboBox1.Size = new System.Drawing.Size(317, 23);
+            this.comboBox1.Size = new System.Drawing.Size(239, 20);
             this.comboBox1.TabIndex = 1;
             // 
             // label1
             // 
             this.label1.AutoSize = true;
-            this.label1.Location = new System.Drawing.Point(16, 22);
-            this.label1.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
+            this.label1.Location = new System.Drawing.Point(12, 18);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(82, 15);
+            this.label1.Size = new System.Drawing.Size(65, 12);
             this.label1.TabIndex = 0;
             this.label1.Text = "选择网卡：";
             // 
@@ -173,15 +164,15 @@
             this._Time,
             this._Length});
             this.dataGridView.Dock = System.Windows.Forms.DockStyle.Top;
-            this.dataGridView.Location = new System.Drawing.Point(0, 59);
-            this.dataGridView.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.dataGridView.Location = new System.Drawing.Point(0, 47);
             this.dataGridView.Name = "dataGridView";
             this.dataGridView.ReadOnly = true;
             this.dataGridView.RowTemplate.Height = 23;
             this.dataGridView.SelectionMode = System.Windows.Forms.DataGridViewSelectionMode.FullRowSelect;
-            this.dataGridView.Size = new System.Drawing.Size(1175, 415);
+            this.dataGridView.Size = new System.Drawing.Size(881, 332);
             this.dataGridView.TabIndex = 0;
             this.dataGridView.CellClick += new System.Windows.Forms.DataGridViewCellEventHandler(this.dataGridView_CellClick);
+            this.dataGridView.CellContentClick += new System.Windows.Forms.DataGridViewCellEventHandler(this.dataGridView_CellContentClick);
             // 
             // Source_ip
             // 
@@ -237,32 +228,29 @@
             this.panel1.Controls.Add(this.txt_Info);
             this.panel1.Controls.Add(this.txt_Data);
             this.panel1.Dock = System.Windows.Forms.DockStyle.Top;
-            this.panel1.Location = new System.Drawing.Point(0, 474);
-            this.panel1.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.panel1.Location = new System.Drawing.Point(0, 379);
             this.panel1.Name = "panel1";
-            this.panel1.Size = new System.Drawing.Size(1175, 215);
+            this.panel1.Size = new System.Drawing.Size(881, 172);
             this.panel1.TabIndex = 1;
             // 
             // txt_Info
             // 
             this.txt_Info.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.txt_Info.Location = new System.Drawing.Point(779, 0);
-            this.txt_Info.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.txt_Info.Location = new System.Drawing.Point(585, 0);
             this.txt_Info.Multiline = true;
             this.txt_Info.Name = "txt_Info";
             this.txt_Info.ReadOnly = true;
-            this.txt_Info.Size = new System.Drawing.Size(396, 215);
+            this.txt_Info.Size = new System.Drawing.Size(296, 172);
             this.txt_Info.TabIndex = 1;
             // 
             // txt_Data
             // 
             this.txt_Data.Dock = System.Windows.Forms.DockStyle.Left;
             this.txt_Data.Location = new System.Drawing.Point(0, 0);
-            this.txt_Data.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.txt_Data.Multiline = true;
             this.txt_Data.Name = "txt_Data";
             this.txt_Data.ReadOnly = true;
-            this.txt_Data.Size = new System.Drawing.Size(779, 215);
+            this.txt_Data.Size = new System.Drawing.Size(585, 172);
             this.txt_Data.TabIndex = 0;
             // 
             // panel2
@@ -270,20 +258,18 @@
             this.panel2.Controls.Add(this.lbl_TotalLength);
             this.panel2.Controls.Add(this.lbl_PackCount);
             this.panel2.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.panel2.Location = new System.Drawing.Point(0, 689);
-            this.panel2.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.panel2.Location = new System.Drawing.Point(0, 551);
             this.panel2.Name = "panel2";
-            this.panel2.Size = new System.Drawing.Size(1175, 21);
+            this.panel2.Size = new System.Drawing.Size(881, 17);
             this.panel2.TabIndex = 2;
             // 
             // lbl_TotalLength
             // 
             this.lbl_TotalLength.AutoSize = true;
             this.lbl_TotalLength.Dock = System.Windows.Forms.DockStyle.Left;
-            this.lbl_TotalLength.Location = new System.Drawing.Point(112, 0);
-            this.lbl_TotalLength.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
+            this.lbl_TotalLength.Location = new System.Drawing.Point(89, 0);
             this.lbl_TotalLength.Name = "lbl_TotalLength";
-            this.lbl_TotalLength.Size = new System.Drawing.Size(112, 15);
+            this.lbl_TotalLength.Size = new System.Drawing.Size(89, 12);
             this.lbl_TotalLength.TabIndex = 1;
             this.lbl_TotalLength.Text = "数据包总长度：";
             // 
@@ -292,23 +278,21 @@
             this.lbl_PackCount.AutoSize = true;
             this.lbl_PackCount.Dock = System.Windows.Forms.DockStyle.Left;
             this.lbl_PackCount.Location = new System.Drawing.Point(0, 0);
-            this.lbl_PackCount.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.lbl_PackCount.Name = "lbl_PackCount";
-            this.lbl_PackCount.Size = new System.Drawing.Size(112, 15);
+            this.lbl_PackCount.Size = new System.Drawing.Size(89, 12);
             this.lbl_PackCount.TabIndex = 0;
             this.lbl_PackCount.Text = "收到的数据包：";
             // 
             // MainForm
             // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 15F);
+            this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 12F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(1175, 710);
+            this.ClientSize = new System.Drawing.Size(881, 568);
             this.Controls.Add(this.panel2);
             this.Controls.Add(this.panel1);
             this.Controls.Add(this.dataGridView);
             this.Controls.Add(this.panel_Top);
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.FixedDialog;
-            this.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.MaximizeBox = false;
             this.Name = "MainForm";
             this.Text = "PacketSniffer";

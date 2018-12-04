@@ -20,3 +20,14 @@ C:\Users\Administrator\Desktop\PacketSniffer\PacketSniffer\obj\Debug\PacketSniff
 C:\Users\Administrator\Desktop\PacketSniffer\PacketSniffer\obj\Debug\PacketSniffer.csproj.CoreCompileInputs.cache
 C:\Users\Administrator\Desktop\PacketSniffer\PacketSniffer\obj\Debug\PacketSniffer.exe
 C:\Users\Administrator\Desktop\PacketSniffer\PacketSniffer\obj\Debug\PacketSniffer.pdb
+C:\Users\Administrator\Desktop\IP包抓取并解析C#\PacketSniffer\bin\Debug\PacketSniffer.exe.config
+C:\Users\Administrator\Desktop\IP包抓取并解析C#\PacketSniffer\bin\Debug\PacketSniffer.exe
+C:\Users\Administrator\Desktop\IP包抓取并解析C#\PacketSniffer\bin\Debug\PacketSniffer.pdb
+C:\Users\Administrator\Desktop\IP包抓取并解析C#\PacketSniffer\obj\Debug\PacketSniffer.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\IP包抓取并解析C#\PacketSniffer\obj\Debug\PacketSniffer.MainForm.resources
+C:\Users\Administrator\Desktop\IP包抓取并解析C#\PacketSniffer\obj\Debug\PacketSniffer.PackInfo.resources
+C:\Users\Administrator\Desktop\IP包抓取并解析C#\PacketSniffer\obj\Debug\PacketSniffer.Properties.Resources.resources
+C:\Users\Administrator\Desktop\IP包抓取并解析C#\PacketSniffer\obj\Debug\PacketSniffer.csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\IP包抓取并解析C#\PacketSniffer\obj\Debug\PacketSniffer.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\IP包抓取并解析C#\PacketSniffer\obj\Debug\PacketSniffer.exe
+C:\Users\Administrator\Desktop\IP包抓取并解析C#\PacketSniffer\obj\Debug\PacketSniffer.pdb

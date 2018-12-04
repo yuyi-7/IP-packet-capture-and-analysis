@@ -55,5 +55,10 @@ namespace PacketSniffer
             }
             txt_Data.Text = byte_data;
         }
+
+        private void lbl_Version_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }
